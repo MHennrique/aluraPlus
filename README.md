@@ -1,4 +1,11 @@
 # aluraPlus
 <h1 align="center"> Portfólio AluraPlus </h1>
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 > :construction: Projeto em construção :construction:
+# 📁 Acesso ao projeto
+
+(https://github.com/MHennrique/aluraPlus)
+
+# 🛠️ Abrir e rodar o projeto
+
+(https://alura-plus-dun-nu.vercel.app)https://alura-plus-dun-nu.vercel.app
+https://mhennrique.github.io/aluraPlus/
