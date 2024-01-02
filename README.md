@@ -17,3 +17,6 @@ estilizações e muito mais!!!
 > Clicando <a href="https://alura-plus-dun-nu.vercel.app">aqui</a>, você acessa o projeto na vercel.<br>
 > Clicando <a href="https://mhennrique.github.io/aluraPlus/">aqui</a>, você acessa o projeto no Github.<br>
 
+<h1 align="center">✔️ Técnicas e tecnologias utilizadas</h1>
+> Html e Css
+> Figma
