@@ -1,4 +1,4 @@
-# aluraPlus
+#<h1 align="center" color="blue">AluraPlus</h1>
 <h1 align="center"> Portfólio AluraPlus </h1>
 > :construction: Projeto em construção :construction:
 <br>
