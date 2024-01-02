@@ -18,5 +18,5 @@ estilizações e muito mais!!!
 > Clicando <a href="https://mhennrique.github.io/aluraPlus/">aqui</a>, você acessa o projeto no Github.<br>
 
 <h1 align="center">✔️ Técnicas e tecnologias utilizadas</h1>
-> Html e Css
+> Html e Css<br>
 > Figma
