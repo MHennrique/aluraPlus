@@ -8,7 +8,7 @@ uma página do AluraPlus seguindo o que me foi encaminhado do Figma, testando su
 estilizações e muito mais!!!
 
 <br>
-# 📁 Acesso ao projeto
+#<h1 align="center">📁 Acesso ao projeto</h1>
 
 Você pode acessar o projeto clicando <a href="https://github.com/MHennrique/aluraPlus">aqui</a>
 
